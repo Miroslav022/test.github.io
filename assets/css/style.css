@@ -91,10 +91,7 @@ html {
   width: 50%;
 }
 
-.mc-nav .mc-naslov .mc-naslov-blok {
-  padding-top: 350px;
-  padding-bottom: 150px;
-}
+
 
 .mc-nav .mc-naslov .mc-naslov-blok .font-blok {
   font-weight: 600;
@@ -298,10 +295,6 @@ footer {
 }
 
 
-@media screen and (max-width: 375px) {
-  .mc-nav .mc-naslov .mc-naslov-blok {
-    padding-top: 150px;
-    padding-bottom: 150px;
-}
-}
+
+
 /*# sourceMappingURL=style.css.map */
